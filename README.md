@@ -1,1 +1,1 @@
-This is a Analysis portfolio of Pizza_Sales which includes the details about the structed data, compiled code, and dashboard(PowerBI)
+This is an Analysis portfolio of Pizza_Sales which includes the details about the structured data, compiled code, and dashboard(PowerBI)
